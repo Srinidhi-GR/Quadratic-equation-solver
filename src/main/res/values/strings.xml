@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quadratic Equation solver</string>
+    <string name="enter_x_value">Enter x value</string>
+    <string name="quadratic_equation_solver">Quadratic equation solver</string>
+    <string name="enter_y_value">Enter y value</string>
+    <string name="enter_z_value">Enter z value</string>
+    <string name="result">Result: @{}</string>
+</resources>
